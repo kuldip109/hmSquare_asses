@@ -316,3 +316,5 @@ shard-mapping table are the usual production upgrades, called out below).
 | GET | `/orders/:orderId` | Look up one order by ID (scatter-gather). |
 | GET | `/health` | Per-shard DB connectivity check. |
 | GET | `/metrics` | Aggregate job/row counters. |
+#   h m S q u a r e _ a s s e s  
+ 
